@@ -31,7 +31,7 @@ let myp;
 
 function setup() {
   noCanvas();
-  myp = createP("A sentence is comming")
+  myp = createP("Click generate for a randomly generated Chinese Sentence")
   button = createButton('generate');
   button.mousePressed(cfg);
 }
