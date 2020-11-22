@@ -3,11 +3,11 @@
 // Daniel Shiffman
 // context free grammar videos
 // from his 
-//Session 7 of my Programming from A to Z class - Fall 2016. 
-//http://shiffman.net/a2z/
+//Session 7 Programming from A to Z class - Fall 2016. 
+//
 
 
-// chinese based on 100 sentece frames
+// Chinese rule set is  based on 100 sentence frames
 //
 
  
