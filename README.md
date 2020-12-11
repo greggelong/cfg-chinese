@@ -1,6 +1,9 @@
 # cfg-chinese
 Building a Chinese Context Free Grammar rule set based on Chinese sentence frames.
 
+
+[see it live](https://greggelong.github.io/cfg-chinese/)
+
 I am using a random sentence expansion based on code by Dan Shiffman and Allison Parrish.
 
 The Chinese rule set is very different from an English rule set, as expected.
