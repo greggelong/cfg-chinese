@@ -28,12 +28,14 @@ function expand(start, expansion) {
 var button;
 
 let myp;
+let mylink;
 
 function setup() {
   noCanvas();
   myp = createP("Click generate for a randomly generated Chinese Sentence")
   button = createButton('generate');
   button.mousePressed(cfg);
+  mylink = createA('https://github.com/greggelong/cfg-chinese', 'link to this  repo');
 }
 
 function cfg() {
